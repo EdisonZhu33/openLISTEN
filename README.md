@@ -5,4 +5,4 @@
 
 
 
-<div align="center"><img src="images/model.png" width="75%"/></div>
+<div align="center"><img src="https://github.com/EdisonZhu33/openLISTEN/blob/main/openlisten2.pdf" width="75%"/></div>
